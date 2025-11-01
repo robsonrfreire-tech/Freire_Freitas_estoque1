@@ -1,0 +1,1 @@
+Placeholder Android folder. Ensure a full Flutter android/ directory if Codemagic requires it.
