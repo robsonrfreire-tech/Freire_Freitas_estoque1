@@ -1,0 +1,22 @@
+name: padaria_estoque
+description: Controle de estoque - Padaria (Freire e Freitas)
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  sqflite: ^2.2.8+1
+  path_provider: ^2.0.15
+  path: ^1.8.3
+  mobile_scanner: ^2.0.0
+  excel: ^2.0.2
+  intl: ^0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
